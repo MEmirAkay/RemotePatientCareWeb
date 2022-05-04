@@ -118,13 +118,7 @@
                 <div class="col col-md-6 lightButtonContainer mx-auto">
                     <h1 class="display-5" style="text-align: center;">Heater</h1>
                         <button class="row col-md-12 btn-success lightButton mx-auto mt-3">
-                            High
-                        </button>
-                        <button class="row col-md-12 btn-warning lightButton mx-auto mt-3">
-                            Medium
-                        </button>
-                        <button class="row col-md-12 btn-primary lightButton mx-auto mt-3">
-                            Low
+                            On
                         </button>
                         <button class="row col-md-12 btn-danger lightButton mx-auto mt-3">
                             Off
